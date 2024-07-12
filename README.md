@@ -1,9 +1,7 @@
 ### Space Invaders
 
-A web-based, browser version of the classic Arcade game: Space Invaders.
-Use the arrow keys to move and the space bar to shoot
-Every once in a while, a UFO will spawn. If you manage to shoot it down, you may receive a power up item! These power up items can upgrade your weapons or boost speed. Be sure to pick these up quickly because they will disappear!
+Este proyecto es una implementación del clásico juego Space Invaders usando HTML5 Canvas y JavaScript. El objetivo del juego es destruir todos los aliens antes de que lleguen a la parte inferior de la pantalla. Los movimientos de la nave y los aliens están basados en funciones de tiempo, simulando movimientos en un plano cartesiano según los conceptos de Cálculo 1.
 
-[Click here to Play Space Invaders](https://jay-ithiel.github.io/space_invaders/)
+[Click here to Play Space Invaders](link-aca)
 
 ![space invaders gameplay](images/space_invaders.png)
