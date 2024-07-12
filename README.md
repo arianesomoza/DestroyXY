@@ -5,3 +5,10 @@ Este proyecto es una implementación del clásico juego Space Invaders usando HT
 [Click here to Play Space Invaders](https://arianesomoza.github.io/DestroyXY/)
 
 ![space invaders gameplay](images/space_invaders.png)
+
+### Características
+
+Movimiento horizontal de la nave controlado por las teclas de flecha izquierda y derecha.
+Aliens que se mueven en un patrón sinusoidal horizontalmente y descienden verticalmente.
+Detección de colisiones entre proyectiles y aliens.
+Interfaz de usuario que muestra el estado de "Game Over" cuando los aliens llegan a la parte inferior de la pantalla.
